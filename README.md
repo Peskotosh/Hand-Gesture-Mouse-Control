@@ -11,3 +11,7 @@ Control your mouse using hand gesture
 * [OpenCV](https://opencv.org/)
 * [MediaPipe](https://developers.google.com/mediapipe)
 * [PyAutoGUI](https://pyautogui.readthedocs.io/)
+
+## Usage
+* Move Hand: Cursor follows your middle finger
+* Pinch: Left click
