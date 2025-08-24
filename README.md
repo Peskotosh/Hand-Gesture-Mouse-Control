@@ -3,7 +3,7 @@
 Control your mouse using hand gesture
 
 ## Features
-* Move cursoe with hand gestures
+* Move cursor with hand gestures
 * Click using specific finger poses
 
 ## Tech Stack
